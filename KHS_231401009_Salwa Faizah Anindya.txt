@@ -1,0 +1,22 @@
+KARTU HASIL STUDI
+=================
+
+Nama    : Salwa Faizah Anindya
+NIM     : 231401009
+
+|================================================|
+| No | Mata Kuliah                     | Nilai   |
+|================================================|
+|  1 | Pendidikan Pancasila            |  A      |     
+|  2 | Bahasa Indonesia                |  B      |     
+|  3 | Matematika Dasar                |  A      |     
+|  4 | Dasar Pemrograman               |  C      |     
+|  5 | Pengenalan Ilmu Komputer        |  D      |     
+|  6 | Lab Praktikum Dasar Pemrograman |  A      |     
+|  7 | Logika Matematika               |  B+     |    
+|  8 | Organisasi Arsitektur Komputer  |  B      |     
+|================================================|
+
+Total SKS   : 19
+IP Semester : 3.03
+
